@@ -3,11 +3,18 @@
 ## Overview
 This project analyzes utility usage in Counter-Strike: Global Offensive (CS:GO) during the ESEA Tournament (South Pacific). The dataset includes thousands of competitive games, tracking utility such as smoke grenades, flashbangs, and hand grenades to understand their impact on round outcomes, bomb plants, and overall strategy.
 
+![cs1](https://github.com/user-attachments/assets/2c16dc95-eb07-43b3-b254-e3ea1e7e253f)
+
+
 ## Dataset
 The analysis is based on multiple datasets containing:
 - **Grenade usage**: Location, type, and impact of grenades used by both teams.
 - **Match metadata**: Map selection, round duration, and winner statistics.
 - **Player statistics**: Equipment value, damage dealt, and kill information.
+
+  
+![cs2](https://github.com/user-attachments/assets/47718884-137f-4fab-b32f-fd4eced7931c)
+
 
 The primary focus is on Mirage, one of the most balanced maps in CS:GO.
 
